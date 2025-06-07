@@ -20,7 +20,7 @@ python main.py
 - Merge Sort delivered solid performance on medium-sized datasets but became less optimal with larger datasets due to its O(n log n) time complexity.
 
 - Insertion Sort was the least efficient of the three, particularly on large datasets, as its O(n²) complexity leads to significantly slower execution.
-- 
+
 ## Sample Benchmark Output
 
 | Size | Timsort (s) | Merge Sort (s) | Insertion Sort (s) |
